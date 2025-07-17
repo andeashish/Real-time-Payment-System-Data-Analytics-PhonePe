@@ -70,7 +70,7 @@ This analysis shows strong adoption of digital payments in India, especially in 
 
 ## 🙌 Credits
 
-- **Author:** *Pabitra Sahoo*
+- **Author:** *Ande Ashish Chaitanya*
 - **Tools Used:** Power BI, DAX, Excel/CSV
 
 
