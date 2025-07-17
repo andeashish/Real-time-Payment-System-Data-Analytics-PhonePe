@@ -1,5 +1,5 @@
 
-# 📊 Real-time-Payment-System-Data-Analytics-PhonePe
+# 📊 PhonePe-Analysis
 
 ## 📌 Project Overview
 
@@ -70,6 +70,7 @@ This analysis shows strong adoption of digital payments in India, especially in 
 
 ## 🙌 Credits
 
-- **Author:** *Ande Ashish Chaitanya*
+- **Author:** *Pabitra Sahoo*
 - **Tools Used:** Power BI, DAX, Excel/CSV
+
 
